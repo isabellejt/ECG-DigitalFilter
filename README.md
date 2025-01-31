@@ -1,1 +1,2 @@
-# ECG-DigitalFilter
+# ECG Digital Filter
+This project focuses on selecting and optimizing a digital filter for ECG signal processing. It allows users to tune filter type, window function, window width, and cutoff frequency to achieve the most effective filtering. The program processes ECG signals from sudden cardiac death (SCD) cases and includes Discrete Fourier Transform (DFT) analysis for signal evaluation. This project aims to enhance ECG signal quality for better analysis and medical interpretation.
